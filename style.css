@@ -1,0 +1,9 @@
+#tabel1{
+    border: 2px solid green;
+}
+
+#ordinal li:first-child{
+    background-color: pink;
+    font-family: Verdana, arial, sans-serif;
+    text-decoration: underline;
+}
