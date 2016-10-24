@@ -1,9 +1,6 @@
-#tabel1{
-    border: 2px solid green;
+body{
+    background-image: url("fundal.jpg");
 }
 
-#ordinal li:first-child{
-    background-color: pink;
-    font-family: Verdana, arial, sans-serif;
-    text-decoration: underline;
-}
+
+
